@@ -19,10 +19,12 @@ input{
 }
 
 button{
-    padding: 10px 20px;
-    margin: 15px 0;
+    padding: 10px;
+    margin: 15px ;
 }
-
+table { 
+    width : 60%;
+}
 table{
     width: 60%;
 }
